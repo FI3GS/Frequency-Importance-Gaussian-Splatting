@@ -25,7 +25,7 @@ We welcome contributions from the community! If you're interested in contributin
 
 ## Contact
 
-For any inquiries, suggestions, or contributions, please contact us at [your email address].
+Keep hiding until the paper is accepted.
 
 ## Acknowledgments
 
